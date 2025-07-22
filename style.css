@@ -1,0 +1,24 @@
+body{
+    font-family:Georgia;
+    background-color: #ce51bd;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+}
+.profile-card {
+    background-color:white;
+    width:350px;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+    text-align:center;
+}
+img {
+    border-radius:50%;
+    border:5px solid #3C3C3C;
+}
+a{
+    text-decoration:none;
+    color:#00C3FF;
+}
